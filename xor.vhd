@@ -1,6 +1,6 @@
 -- File: xor.vhd
 -- Modestas Jonusas ETF-16
---ujhjkghklhjkl
+
 library ieee;
 use ieee.std_logic_1164.all;
 
